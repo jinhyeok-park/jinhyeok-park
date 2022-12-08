@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-this is a test..
+Welcome jinhyeok's github.. 
+
+mainly unsed language is C , java..
+
+I have used CSS, javascript,php ,mysql, python, java, c, c#..
+
+mylife repository is all of my experience about programing..
+
+
 
 <!--
 **jinhyeok-park/jinhyeok-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
