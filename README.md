@@ -10,6 +10,8 @@ mylife repository is all of my experience about programing..
 
 [![jinhyeok's 42 stats](https://badge42.vercel.app/api/v2/clj3w7vgk006808k2vt5m6iws/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junjun9701)](https://solved.ac/junjun9701/)
+
 <!--
 **jinhyeok-park/jinhyeok-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
